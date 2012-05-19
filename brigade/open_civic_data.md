@@ -13,5 +13,5 @@ When I'm working on an open data Activity I want to register my activity with th
 * So that I can record my activity and view my history.
 
 When I commit changes to an open data catalog or repository I want to report the action to the Brigade platform.
-* So that I can have a place to track activity on the Activity
-* So that I can tell people about activity on this Activity
+* So that I can have a place to track the Activity
+* So that I can tell people about the Activity
