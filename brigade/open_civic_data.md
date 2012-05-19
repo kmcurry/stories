@@ -4,7 +4,7 @@ As a Brigade member I want to contribute to the growing body of linked, open dat
 When I see an open data initiative that I am able support then I want to [Join](join_activity.md) that initiative.
 * So that I can join the group working on that initiative
 
-When I do not see an open data initiative that I am able support then I want to Start [Start](join_activity.md) an initiative.
+When I do not see an open data initiative that I am able support then I want to Start [Start](start_activity.md) an initiative.
 * So that I can have a place to track and coordinate the initiative
 * So that I can tell people about the initiative
 
