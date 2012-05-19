@@ -12,6 +12,6 @@ When I Start an Activity I want to Notify the network.
 So that others will receive a link to the Activity
 
 * When I send a New Activity email to brigade@codeforamerica.org
-** And watchers of the Activity
-** And people near me
+  * And watchers of the Activity
+  * And people near me
 * When I send a New Activity tweet using the #cfabrigade hashtag
