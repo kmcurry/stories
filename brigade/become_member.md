@@ -1,0 +1,2 @@
+#I want to become a Brigade Member
+I want to contribute my skills and education to help municipal governments and community organizations make better use of the web or to contribute to open source civic software.
