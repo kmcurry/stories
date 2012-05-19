@@ -1,3 +1,5 @@
+I want to contribute my skills and education to help municipal governments and community organizations make better use of the web or to contribute to open source civic software.
+
 These are the top level stories that drive the Brigade platform. Simply by performing these work flows on the Brigade platform users contribute to an open knowledge base for a densely connected network of civic hackers.
 
 1. <a href="#data">I want to open civic data</a>
