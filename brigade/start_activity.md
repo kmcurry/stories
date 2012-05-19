@@ -9,9 +9,9 @@ The Activity should come from a list of Activitys, for example: Cataloging Data,
 ## Notify
 When I Start an Activity I want to Notify the network.
 
-So that others will receive a link to the Activity:
+So that others will receive a link to the Activity...
 
-* When I send a New Activity email to brigade@codeforamerica.org
-  * And watchers of the Activity
-  * And people near me
-* When I send a New Activity tweet using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
+* ...when I send a New Activity email to brigade@codeforamerica.org
+  * ...and watchers of the Activity
+  * ...and people near me
+* ...when I send a New Activity tweet using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
