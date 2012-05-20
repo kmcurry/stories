@@ -9,7 +9,7 @@ When I Join an Activity I want to Notify the network.
 
 So that others will receive a link to my Profile and to the Activity...
 
-* ...when I send a Member Joined Activity email to brigade@codeforamerica.org
+* ...when a Member Joined Activity email is sent to brigade@codeforamerica.org
   * ...and watchers of the Activity
   * ...and people near me
-* ...when I send a Member Joined Activity tweet using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
+* ...when Member Joined Activity tweet is sent using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
