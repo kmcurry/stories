@@ -1,0 +1,1 @@
+I have a killer civic app and a business model. I need help getting started.

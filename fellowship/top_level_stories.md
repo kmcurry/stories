@@ -1,0 +1,1 @@
+I'm seeking a public service opportunity where I can use my skills and education to make governments work better for everyone using the people and the power of the web.
