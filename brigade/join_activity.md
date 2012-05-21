@@ -1,4 +1,4 @@
-#  I want to Join an [Activity](activity.md)
+#  I want to Join an Activity
 When I see an [Activity](activity.md) that I am able support then I want to Join the [Activity](activity.md).
 * So that I can join the group working on the [Activity](activity.md)
 * So that I can participate in group discussions about the [Activity](activity.md)
