@@ -5,6 +5,7 @@ Types of Activity include:
 * [Deploy and Maintain Civic App](deploy_maintain_civic_apps.md)
 * [Implement Open Government Initiative](support_open_government_initiative.md)
 
+## Properties
 An Activity has the following properties:
 * type
 * name
