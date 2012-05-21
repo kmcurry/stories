@@ -12,4 +12,4 @@ So that others will receive a link to my [Member](member.md) profile and to the 
 * ...when a [Member Joined Activity](member_joined_activity.md) email is sent to brigade@codeforamerica.org
   * ...and watchers of the [Activity](activity.md)
   * ...and people near me
-* ...when [Member](member.md) Joined [Activity](activity.md) tweet is sent using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
+* ...when [Member Joined Activity](member_joined_activity.md) tweet is sent using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
