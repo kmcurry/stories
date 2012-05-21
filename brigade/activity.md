@@ -2,5 +2,5 @@ Members of the Code for America Brigade participate in one or more Activities fr
 
 Types of Activity include:
 * [Open Civic Data](open_civic_data.md)
-* [Deploy and Maintain Civic App](deploy_maintain_civic_app.md)
+* [Deploy and Maintain Civic App](deploy_maintain_civic_apps.md)
 * [Implement Open Government Initiative](support_open_government_initiative.md)
