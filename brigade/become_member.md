@@ -14,6 +14,6 @@ When I become a Brigade [Member](member.md) I want to Notify the network.
 
 So that others will receive a link to my Profile...
 
-* ...when a New [Member](member.md) is email to brigade@codeforamerica.org
+* ...when a [New Member](new_member.md) is email to brigade@codeforamerica.org
   * ...and people near me
-* ...when a New [Member](member.md) tweet is sent using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
+* ...when a [New Member](new_member.md) tweet is sent using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
