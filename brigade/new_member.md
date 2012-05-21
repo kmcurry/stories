@@ -1,0 +1,2 @@
+When a new [Member](member.md) creates a profile on the platform notifications should be syndicated through Brigade's online channels
+* So that other Members, Code for America, and the general public will learn of the new [Member](member.md)
