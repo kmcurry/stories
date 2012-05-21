@@ -4,5 +4,5 @@ Members of the Code for America Brigade are civic minded individuals who want to
 A Member has the following properties:
 * name
 * Location
-* list of Skills
+* list of skills
 * email address
