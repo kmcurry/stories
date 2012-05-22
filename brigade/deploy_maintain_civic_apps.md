@@ -15,3 +15,5 @@ When I'm working on an open data App Deployment I want to register my activity w
 When I commit changes to an App Deployment I want to report the action to the Brigade platform.
 * So that I can have a place to track the App Deployment
 * So that I can tell people about the App Deployment
+
+## How To
