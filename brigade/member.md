@@ -12,3 +12,4 @@ A Member has the following properties:
 * GitHub URL
 * LinkedIn URL
 * Twitter handle
+* a picture
