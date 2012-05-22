@@ -16,3 +16,5 @@ When I'm working on an open data [Activity](activity.md) I want to register my a
 When I commit changes to an open data catalog or repository I want to report the action to the Brigade platform.
 * So that I can have a place to track the [Activity](activity.md)
 * So that I can tell people about the [Activity](activity.md)
+
+## How To
