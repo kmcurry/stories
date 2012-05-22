@@ -13,3 +13,5 @@ Activity Discussion Channels:
 Discussion forum: [forum address]
 IRC channel: #[channel name]
 Twitter hashtag: #[hashtag]
+
+Please visit the discussion forum and introduce yourself by replying to the [Introductions thread]().
