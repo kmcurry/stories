@@ -1,0 +1,6 @@
+# I want to describe an [Activity](activity.md)
+As a Brigade member I want to describe an [Activity](activity.md)
+* So that the platform will have information about the [Activity](activity.md)
+
+## Edit
+When I describe an [Activity](activity.md) I want to edit the Brigade web page about the [Activity](activity.md) 
