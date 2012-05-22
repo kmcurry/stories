@@ -1,5 +1,5 @@
 # I want to describe an Activity
-As a Brigade member I want to describe an [Activity](activity.md)
+As a Brigade [Member](member.md) I want to describe an [Activity](activity.md)
 * So that the platform will have information about the [Activity](activity.md)
 
 ## Edit
