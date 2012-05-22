@@ -15,3 +15,5 @@ When I'm working on an open government initiative I want to register my activity
 When I commit changes to an open government document I want to report the action to the Brigade platform.
 * So that I can have a place to track activity on the initiative
 * So that I can tell people about activity on this initiative
+
+## How To
