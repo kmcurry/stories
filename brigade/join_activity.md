@@ -7,9 +7,8 @@ When I see an [Activity](activity.md) that I am able support then I want to Join
 ## Notify
 When I Join an [Activity](activity.md) I want to Notify the network.
 
-So that others will receive a link to my [Member](member.md) profile and to the [Activity](activity.md)...
-
-* ...when a [Member Joined Activity](member_joined_activity.md) email is sent to brigade@codeforamerica.org
+* So that others will receive a link to my [Member](member.md) profile and to the [Activity](activity.md)...
+ * ...when a [Member Joined Activity](member_joined_activity.md) email is sent to brigade@codeforamerica.org
   * ...and watchers of the [Activity](activity.md)
   * ...and people near me
-* ...when [Member Joined Activity](member_joined_activity.md) tweet is sent using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
+ * ...when [Member Joined Activity](member_joined_activity.md) tweet is sent using the [#cfabrigade](https://twitter.com/#!/search/%23cfabrigade) hashtag
