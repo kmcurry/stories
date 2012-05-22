@@ -7,6 +7,7 @@ Thank you!
 Please take a few minutes to familiarize yourself with the site and complete your profile. Introduce yourself through the forum by replying to the <a href="">Introductions thread</a>. 
 
 Take a closer look at activities and find one to start or join:
+
 1. [I want to open civic data](open_civic_data.md)
 2. [I want to help deploy and maintain civic apps](deploy_maintain_civic_apps.md)
 3. [I want to field test civic apps](test_civic_apps.md)
