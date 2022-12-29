@@ -10,4 +10,4 @@ I'm seeking a public service opportunity where I can use my skills and education
 ## <a name="vol"/>I want to volunteer
 I want to contribute my skills to help municipal governments and community organizations make better use of the web or to contribute to open source civic software. ([More](brigade/top_level_stories.md))
 ## <a name="biz"/>I want to start a business<a/>
-I have a killer civic app and a business model. I need help getting started. ([More](accelerator/top_level_stories.md))
+I have a civic app and a business model. I need help getting started. ([More](accelerator/top_level_stories.md))
